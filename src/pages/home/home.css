@@ -1,0 +1,226 @@
+.home{
+  width: 960px;
+  margin: 0 auto;
+  margin-top: 30px;
+  overflow: hidden;
+  z-index: 0;
+}
+.home .homeLeft{
+  width: 625px;
+  float: left;
+}
+.home .homeRight{
+  width: 280px;
+  float: right;
+}
+
+
+.topic{
+  border-bottom: 1px solid #ddd;
+  margin-left: -18px;
+  padding: 20px 0 10px 0;
+  overflow: hidden;
+}
+.topicItem{
+  float: left;
+  background: #f7f7f7;
+  height: 32px;
+  line-height: 32px;
+  font-size: 14px;
+  color: #000;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding-right: 10px;
+  margin-left: 18px;
+  margin-bottom: 18px;
+}
+
+
+.listItem{
+  margin-top: 30px;
+  overflow: hidden;
+  padding-bottom: 25px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid #ddd;
+}
+.listLeft{
+  width: 460px;
+  float: left;
+}
+.title{
+  font-size:18px;
+  line-height: 1.5;
+  font-weight: bold;
+  color: #333;
+}
+.desc{
+  margin-top: 10px;
+  font-size: 13px;
+  line-height: 24px;
+  color: #999;
+}
+.list_lin{
+  margin-top: 20px;
+  font-size: 13px;
+  color: #b4b4b4;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.list_a{
+  margin-right: 10px;
+}
+.icon-message{
+  font-size: 13px;
+  margin-right: 3px;
+}
+.icon-love{
+  font-size: 13px;
+  margin-right: 3px;
+}
+.listRight{
+  float: right;
+  display: flex;
+  align-items: center;
+}
+
+
+.recommend{
+  width: 280px;
+}
+.recommendItem{
+  width: 280px;
+  height: 50px;
+  display: block;
+  padding-bottom: 5px;
+}
+
+
+.downLoad{
+  display: block;
+  margin-top: 10px;
+  width: 275px;
+  height: 82px;
+  border: 1px solid #f0f0f0;
+  border-radius: 6px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.downloadLeft{
+  float: left;
+  margin-left: 20px;
+}
+.downloadRight{
+  float: right;
+  margin-left: 15px;
+}
+.downloadTitle{
+  font-size: 15px;
+  font-weight: bold;
+  color: #333;
+}
+.downloadDesc{
+  margin-top: 10px;
+  font-size: 13px;
+  color: #999;
+}
+
+
+.writerTop{
+  margin-top: 30px;
+}
+.writerCottent{
+  margin-top: 20px;
+  width: 280px;
+  overflow: hidden;
+}
+.cottentTop{
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  color: #969696;
+
+}
+
+.writerBottom{
+  margin-top: 20px;
+}
+.writerItem{
+  overflow: hidden;
+  margin-top: 20px;
+
+}
+.writerItemImg{
+  float: left;
+  width: 48px;
+  height: 48px;
+  border-radius: 24px;
+}
+.writerItemLink{
+  float: right;
+  position: relative;
+  top: 5px;
+  font-size: 13px;
+  color: #42c02e;
+
+}
+.writerItemTitle{
+  position: relative;
+  left: 10px;
+  top: 5px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #333;
+}
+.writerItemDesc{
+  position: relative;
+  left: 10px;
+  font-size: 12px;
+  color: #969696;
+}
+
+.watchAll{
+  margin-top: 20px;
+  width: 278px;
+  height: 34px;
+  line-height: 34px;
+  color: #787878;
+  font-size: 13px;
+  border: 1px solid #dcdcdc;
+  background: #f7f7f7;
+  text-align: center;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.readMore{
+  width: 100%;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  border-radius: 20px;
+  background: #a5a5a5;
+  font-size: 15px;
+  color: #fff;
+  margin: 20px 0;
+  cursor: pointer;
+}
+.backToTop{
+  position: fixed;
+  right: 50px;
+  bottom: 50px;
+  text-align: center;
+  font-size: 14px;
+  color: #333;
+  border: 1px solid #969696;
+  padding: 10px;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.change{
+  cursor: pointer;
+}
+
+.swiper-pagination .my-bullet-active { 
+  background-color: #fff; 
+} 

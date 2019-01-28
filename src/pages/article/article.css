@@ -1,0 +1,21 @@
+
+.article{
+  position: relative;
+  left: 20%;
+  width: 60%;
+  border: 1px solid #eee;
+  padding: 10px;
+  overflow: hidden;
+}
+.send{
+  background: #ea6f5a !important;
+  color: #fff;
+  font-size: 14px;
+  float: right;
+  
+}
+.acticle_login{
+  font-size: 18px;
+  text-align: center;
+  padding: 20px 0;
+}

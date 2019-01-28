@@ -1,0 +1,26 @@
+
+.detail{
+  width: 620px;
+  margin: 30px auto; 
+  z-index: 2;
+}
+.detail h2{
+  font-size: 34px;
+  font-weight: bold;
+  line-height: 1.3;
+  color: #333;
+}
+.detail .content{
+  margin-top: 10px;
+}
+.detail img{
+  width: 524px;
+  height: 294px;
+}
+.detail p{
+  color: #2f2f2f;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.7;
+  margin-top: 20px;
+}

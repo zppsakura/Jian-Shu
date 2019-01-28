@@ -1,0 +1,76 @@
+.login{
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 58px;
+  background: #eee;
+  z-index: 1;
+}
+.login-form{
+  max-width: 300px;
+  background: #fff;
+}
+.login_box{
+  position: relative;
+  left: 40%;
+  top: 20%;
+  
+}
+.login-form-forgot{
+  float: right;
+}
+.login-form-button {
+  width: 100%;
+  background: #3194d0 !important;
+  font-size: 18px !important;
+  color: #fff !important;
+  margin-bottom: 30px;
+  border-radius: 20px !important;
+  height: 40px !important;
+  margin-bottom: 30px;
+}
+.formStl{
+  padding: 20px;
+}
+.login_title{
+  text-align: center;
+}
+.login_info{
+  font-size: 18px;
+  color: #969696;
+  padding: 5px;
+}
+.register_info{
+  font-size: 18px;
+  color: #969696;
+  padding: 5px;
+}
+.icon_dot{
+  color: #969696;
+  font-size: 12px;
+  padding: 0 10px;
+}
+
+
+.login_active{
+  font-size: 18px;
+  padding: 5px;
+  color: #ea6f5a;
+  border-bottom: 2px solid #ea6f5a;
+}
+.register_active{
+  font-size: 18px;
+  padding: 5px;
+  color: #ea6f5a;
+  border-bottom: 2px solid #ea6f5a;
+}
+.login-form-button2{
+  width: 100%;
+  background: #42c02e !important;
+  font-size: 18px !important;
+  color: #fff !important;
+  margin-bottom: 30px;
+  border-radius: 20px !important;
+  height: 40px !important;
+}
